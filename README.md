@@ -35,26 +35,26 @@ The href Attribute:-
 The `<a>` tag defines a hyperlink.
 The href attribute specifies the URL of the page the link goes to:
     
-    `<a href="https://www.google.com">Visit please</a>`
+    <a href="https://www.google.com">Visit please</a>
 
 The src Attribute:-
 
 The `<img>` tag is used to embed an image in an HTML page. 
 The src attribute specifies the path to the image to be displayed:
 
-    `<img src="img_boy.jpg">`    
+    <img src="img_boy.jpg">   
 
 The width and height Attributes:-
 
 The `<img>` tag should also contain the width and height attributes, which specify the width and height of the image (in pixels):
        
-       `<img src="img_boy.jpg" width="500" height="600">`
+       <img src="img_boy.jpg" width="500" height="600">
 
 The alt Attribute:-
 
 The required alt attribute for the `<img>` tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader.
 
-     `<img src="img_boy.jpg" alt="Boy with a jacket">`
+     <img src="img_boy.jpg" alt="Boy with a jacket">
 
 # HTML Headings
 HTML headings are defined with the `<h1>` to `<h6>` tags.
