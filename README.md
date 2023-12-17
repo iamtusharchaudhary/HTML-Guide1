@@ -63,12 +63,19 @@ HTML headings are defined with the `<h1>` to `<h6>` tags.
 `<h6>` defines the least important heading.
 
 # Example:-
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
+`<h1>`Heading 1`</h1>`
+`<h2>`Heading 2`</h2>`
 <h3>Heading 3</h3>
 <h4>Heading 4</h4>
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
+
+# HTML Paragraphs:-
+The HTML `<p>` element defines a paragraph.
+
+A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
      
-       
+# Example:-
+`<p>`This is a paragraph.`</p>`
+<p>This is another paragraph.</p>
        
