@@ -15,14 +15,3 @@ Attributes provide additional information about elements.
 Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 
- # HTML Headings
-HTML headings are defined with the <h1> to <h6> tags.
-<h1> defines the most important heading. <h6> defines the least important heading.
-
-# Example:-
-
-<h1>This is a heading</h1>
-<h1>This is a heading</h1>
-<h1>This is a heading</h1>
-<h2></h1>
-<h3></h1>
