@@ -24,3 +24,18 @@ The HTML document itself begins with <html> and ends with `</html>`.
 
 The visible part of the HTML document is between `<body>` and `</body>`.
 
+# HTML Attributes
+All HTML elements can have attributes.
+Attributes provide additional information about elements.
+Attributes are always specified in the start tag.
+Attributes usually come in name/value pairs like: name="value".
+
+The href Attribute:-
+The `<a>` tag defines a hyperlink.
+The href attribute specifies the URL of the page the link goes to:
+    `<a href="https://www.google.com">Visit please</a>`
+
+The src Attribute:-
+The `<img>` tag is used to embed an image in an HTML page. 
+The src attribute specifies the path to the image to be displayed:
+    `<img src="img_boy.jpg">`    
