@@ -16,5 +16,5 @@ Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 
  # Href Attribute
-  The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
-       <a href="https://www.w3schools.com">Visit W3Schools</a>
+  The {<a>} tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
+       <a href="https://www.google.com">Visit Google</a>
