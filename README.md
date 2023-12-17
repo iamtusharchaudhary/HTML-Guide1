@@ -31,11 +31,15 @@ Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 
 The href Attribute:-
+
 The `<a>` tag defines a hyperlink.
 The href attribute specifies the URL of the page the link goes to:
+    
     `<a href="https://www.google.com">Visit please</a>`
 
 The src Attribute:-
+
 The `<img>` tag is used to embed an image in an HTML page. 
 The src attribute specifies the path to the image to be displayed:
+
     `<img src="img_boy.jpg">`    
