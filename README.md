@@ -55,5 +55,20 @@ The alt Attribute:-
 The required alt attribute for the `<img>` tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader.
 
      `<img src="img_boy.jpg" alt="Boy with a jacket">`
+
+# HTML Headings
+HTML headings are defined with the `<h1>` to `<h6>` tags.
+
+`<h1>` defines the most important heading. 
+`<h6>` defines the least important heading.
+
+# Example
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+     
        
        
