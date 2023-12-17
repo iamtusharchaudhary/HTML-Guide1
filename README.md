@@ -9,24 +9,8 @@ HTML describes the structure of a Web page.
 HTML consists of a series of elements.
 HTML elements tell the browser how to display the content.
 
-# Synatx of HTML:-
-
-`<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-</body>
-</html>`
-
-# HTML Attributes:-
-All HTML elements can have attributes.
-Attributes provide additional information about elements.
-Attributes are always specified in the start tag.
-Attributes usually come in name/value pairs like: name="value".
+# HTML Elements:-
+An HTML file is made of elements. These elements are responsible for creating web pages and define content in that webpage. An element in HTML usually consist of a start tag <tag name>, close tag </tag name> and content inserted between them. Technically, an element is a collection of start tag, attributes, end tag, content between them.
 
 # HTML Documents
 All HTML documents must start with a document type declaration: `<!DOCTYPE html>`.
