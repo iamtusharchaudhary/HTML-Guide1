@@ -15,6 +15,14 @@ Attributes provide additional information about elements.
 Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 
- # Href Attribute
-  The {<a>} tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
-       <a href="https://www.google.com">Visit Google</a>
+ # HTML Headings
+HTML headings are defined with the <h1> to <h6> tags.
+<h1> defines the most important heading. <h6> defines the least important heading.
+
+# Example:-
+
+<h1>This is a heading</h1>
+<h1>This is a heading</h1>
+<h1>This is a heading</h1>
+<h2></h1>
+<h3></h1>
