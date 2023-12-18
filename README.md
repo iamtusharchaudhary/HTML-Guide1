@@ -80,18 +80,3 @@ A paragraph always starts on a new line, and browsers automatically add some whi
 `<p>`This is another paragraph.`</p>`
 
 
-# HTML syntax
-
-`<!DOCTYPE html>`<br>
-`<html>`<br>
-`<head>`<br>
-`<title>`Page Title`</title>`<br>
-`</head>`<br>
-`<body>`<br>
-
-`<h1>`My First Heading`</h1>`<br>
-`<p>`My first paragraph.`</p>`<br>
-
-`</body>`<br>
-`</html>`<br>
-
