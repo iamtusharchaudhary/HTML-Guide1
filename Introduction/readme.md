@@ -34,4 +34,9 @@
  
     
 </body>
-</html>```  
+</html>  
+```
+# Behaviour of Tag
+
+> Inline Element
+> Block Element
