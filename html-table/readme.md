@@ -1,8 +1,8 @@
 # HTML Table
 
-#### HTML tables allow web developers to arrange data into rows and columns.#### Table is a combination of rows and columns.
-
-
+#### HTML tables allow web developers to arrange data into rows and columns.
+#### Table is a combination of rows and columns.
+<br/>
 > Table represent by < table > < /table >
 
 > Row represent by < tr > < /tr >
@@ -14,10 +14,10 @@
 > body represent by < tbody > < /tbody >
 
 # Table Attribute
-. border
-width
-height
-cellspacing
-cellpadding
-bg-color
-align
+* border
+* width
+* height
+* cellspacing
+* cellpadding
+* bg-color
+* align
