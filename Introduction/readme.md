@@ -38,6 +38,5 @@
 ```
 # Behaviour of Tag
 
-> Inline Element
-<br/>
+> Inline Element <br><br/>
 > Block Element
