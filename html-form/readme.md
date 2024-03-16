@@ -42,24 +42,24 @@
 # The HTML <form> Elements
 ### The HTML <form> element can contain one or more of the following form elements:
 
-* <input>
+* `<input>`
 
-* <label>
+* `<label>`
 
-* <select>
+* `<select>`
 
-* <textarea>
+* `<textarea>`
 
-* <button>
+* `<button>`
 
-* <fieldset>
+* `<fieldset>`
 
-* <legend>
+* `<legend>`
 
-* <datalist>
+* `<datalist>`
 
-* <output>
+* `<output>`
 
-* <option>
+* `<option>`
 
-* <optgroup>
+* `<optgroup>`
