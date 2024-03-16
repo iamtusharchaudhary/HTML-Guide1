@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Email App</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-88S4EKQLF6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-88S4EKQLF6');
+    </script>
+</head>
+<body>
+    <table border="0" width="100%">
+        <tr>
+            <td height="100px" colspan="2" bgcolor="royalblue">
+                <font color="white">
+                <h1>&nbsp;&nbsp; User Email App</h1>
+                </font>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td height="450px" width="75%">
+                <img src="image/course-1.jpg" alt="banner" width="100%" height="350px">
+                <hr>
+                <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo, facere.</h2>
+            </td>
+            <td width="25%">
+                <table border="0" width="100%" height="330px" align="center" bgcolor="royalblue">
+                    <tr>
+                        <td align="center">
+                            <table border="0" width="90%" height="280px" bgcolor="whitesmoke">
+                                <tr>
+                                    <td align="center">
+                                        <form method="post" action="profile.html" >
+                                            <img src="image/user-128.png" width="80px" height="80px" alt="logo" >        
+                                            <p><input type="email" name="uemail" placeholder="Enter Email Id" required></p>
+                                            <p><input type="password" name="upass" placeholder="Enter Password" required></p>
+                                            <p><input type="submit" name="ulog" value="Login Now"></p>
+                                            <a href="register.html">Create your Account</a>
+                                        </form>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" bgcolor="royalblue">
+                <font color="white">
+                    <h4>copyright &copy; 2023</h4>
+                    </font>
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
