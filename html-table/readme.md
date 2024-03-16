@@ -22,3 +22,18 @@
 * cellpadding
 * bg-color
 * align
+
+# td (Tag) Attribute:-
+
+* width
+* height
+* colspan
+* rowspan
+* bg-color
+* align
+* valign
+
+# tr (Tag) attribute:-
+
+* align
+* valign
