@@ -39,4 +39,5 @@
 # Behaviour of Tag
 
 > Inline Element
+<br/>
 > Block Element
