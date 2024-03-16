@@ -3,6 +3,7 @@
 #### HTML tables allow web developers to arrange data into rows and columns.
 #### Table is a combination of rows and columns.
 <br/>
+
 > Table represent by < table > < /table >
 
 > Row represent by < tr > < /tr >
