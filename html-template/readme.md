@@ -1,3 +1,3 @@
 # HTML Templates
 
-<img src="website-layout.jpg">
+<img src=""D:\Templates\website-layout.jpg"">
