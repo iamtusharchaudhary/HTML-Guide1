@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>: HTML document type declaration.
 <html>: Root element.
 <head>: Contains metadata.
@@ -116,3 +117,4 @@
 <form>: Wraps form elements for user input.
 <table>, <tr>, <td>, <th>: Constructs tables, rows, and cells for tabular data.
 <iframe>: Embeds external content, like a webpage or video, within the current document.
+```
