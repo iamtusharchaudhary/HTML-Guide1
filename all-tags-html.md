@@ -102,19 +102,8 @@
 <head>: Contains metadata like title, character set, styles, and scripts.
 <title>: Sets the document title.
 <body>: Contains the main content of the HTML document.
-<h1> to <h6>: Define headings, where <h1> is the largest and <h6> is the smallest.
-<p>: Represents paragraphs of text.
-<a>: Creates hyperlinks, linking to another document or resource.
-<img>: Embeds images.
-<ul> and <ol>: Define unordered and ordered lists.
-<li>: Represents list items within <ul> or <ol>.
-<div>: Groups content for styling or layout purposes.
-<span>: Applies styles to inline elements.
-<br>: Inserts a line break within text.
-<hr>: Represents a horizontal rule or line.
 <strong> and <em>: Emphasise text with strong and emphasised importance, respectively.
 <input>: Creates input fields for forms.
 <form>: Wraps form elements for user input.
 <table>, <tr>, <td>, <th>: Constructs tables, rows, and cells for tabular data.
-<iframe>: Embeds external content, like a webpage or video, within the current document.
 ```
